@@ -21,7 +21,7 @@ header ul{
     margin: 0;
     display: flex;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 5.5rem;
 }
 
 header a,
