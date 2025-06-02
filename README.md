@@ -5,4 +5,4 @@
 
 <p>“Some artifacts hold power. Others hold stories. These hold both.”</p>
 
-<p>Visit here: <a href='yarik-gulya.github.io/artifacts/'>yarik-gulya.github.io/artifacts</a></p>
+<p>Visit here: <a href='https://yarik-gulya.github.io/artifacts/'>yarik-gulya.github.io/artifacts</a></p>
