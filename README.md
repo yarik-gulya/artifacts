@@ -16,11 +16,11 @@
 
   <p>Each artifact includes:</p>
   <ul>
-    <li>🧩 A unique name and visual style</li>
-    <li>📖 Backstory or myth</li>
-    <li>🔮 Special abilities</li>
-    <li>⚠️ Activation conditions</li>
-    <li>🧠 Thematic symbolism</li>
+    <li>A unique name and visual style</li>
+    <li>Backstory or myth</li>
+    <li>Special abilities</li>
+    <li>Activation conditions</li>
+    <li>Thematic symbolism</li>
   </ul>
 
   <h2>Featured Artifacts (selection)</h2>
@@ -41,11 +41,11 @@
 
   <h2>Future Ideas (possible improvements)</h2>
   <ul>
-    <li>🌗 Dark mode / accessibility themes</li>
-    <li>📚 Add multilingual support</li>
-    <li>🎧 Ambient background music or sound effects</li>
-    <li>🔍 Search & filter by artifact traits (e.g., element, origin, type)</li>
-    <li>✍️ Submit-your-own-artifact form</li>
+    <li>Dark mode / accessibility themes</li>
+    <li>Add multilingual support</li>
+    <li>Ambient background music or sound effects</li>
+    <li>Search & filter by artifact traits (e.g., element, origin, type)</li>
+    <li>Submit-your-own-artifact form</li>
   </ul>
 
   <h2>Contributing</h2>
